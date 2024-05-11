@@ -1,0 +1,5 @@
+Create a web page that asks a user how many subjects they take, and what marks they got in each subject.
+
+The application should then output their results.
+
+Bonus: Tell the user their grade from A-F based on their results
